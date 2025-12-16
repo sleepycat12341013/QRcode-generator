@@ -20,8 +20,6 @@ QR コードを確認してダウンロード ✅
 
 ## 🛠 技術
 
-- Next.js
-
 - JavaScript
 
 - HTML / CSS
