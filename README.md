@@ -8,6 +8,8 @@
        width="300">
 </p>
 
+デモ →https://qr-code-generator-nine-kappa.vercel.app/
+
 ## 🚀 使い方
 
 - ブラウザで開く
