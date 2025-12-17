@@ -58,6 +58,13 @@ label.bg-color-label {
 }
 #qrcode {
   margin-top: 10px;
+  width: 150px;
+  height: 150px;
+}
+#qrcode canvas,
+#qrcode img {
+  width: 100%;
+  height: 100%;
 }
 /*機能ここまで*/
 
